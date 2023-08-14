@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641555755 source:c:\users\murat\onedrive\masaüstü\19010011051\otomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
